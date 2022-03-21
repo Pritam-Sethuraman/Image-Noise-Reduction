@@ -1,4 +1,4 @@
 # Image-Noise-Reduction
-![GUI](https://user-images.githubusercontent.com/78743757/159211334-367b72a3-f1fa-4d39-8737-fca44dbf8485.png)
+![image](https://user-images.githubusercontent.com/78743757/159211401-a2e0e20e-12a9-4747-bb24-e1f5529bd2b6.png)
 
 ---
